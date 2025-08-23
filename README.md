@@ -1,5 +1,5 @@
 # 💫 👋 Hi there, I'm Vellore Syed Samiulla (Sammu):
-Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation
+Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br/> 😎 I've always been an autodidact
 
 
 ## 🌐 Socials:
