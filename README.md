@@ -1,3 +1,17 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Sammu%20VS&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Building%20Real%20Systems%20•%20Future%20Founder&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=I+build+systems+that+scale;AI+%7C+Startups%20%7C%20System%20Design;Solving%20real-world%20problems;From%20idea%20to%20execution)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
+
 # 💫 👋 Hi there, I'm Vellore Syed Samiulla (Sammu):
 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br/> 😎 I've always been an autodidact
 
