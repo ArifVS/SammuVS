@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Samiulla&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Autodidact%20•%20Aspiring%20Startup%20Founder%20•%20Frontend%20%26%20Marketing&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Self-taught+%26+always+learning;Frontend+Development+%7C+Digital+Marketing;Building+ideas+from+scratch;From+curiosity+to+execution)
-
-](https://git.io/typing-svg)
-
-<br/>
-
-</div>
-
 # 💫 👋 Hi there, I'm Vellore Syed Samiulla (Sammu):
 Currently pursuing B.Tech in Artificial Intelligence & Machine Learning at Alliance University  <br>🚀 Passionate about solving real-world problems using AI/ML and innovative tech  <br>🎯 Goal: To become a CEO leading future tech innovation<br/> 😎 I've always been an autodidact
 
